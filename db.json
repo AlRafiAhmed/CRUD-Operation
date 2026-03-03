@@ -256,14 +256,10 @@
       "body": "gfdgf"
     },
     {
-      "id": "78",
-      "title": "",
-      "body": ""
-    },
-    {
       "id": "1",
       "title": "R coder",
       "body": "Mission MERN"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
